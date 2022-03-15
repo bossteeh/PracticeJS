@@ -1,0 +1,9 @@
+button {
+  background-color: blueviolet;
+  color: white;
+  padding: 10px 20px;
+  border-radius: 5px;
+  -webkit-box-shadow: 5px 5px 5px darkgray;
+          box-shadow: 5px 5px 5px darkgray;
+}
+/*# sourceMappingURL=styles.css.map */
