@@ -5,3 +5,39 @@ button{
     border-radius: 5px;
     box-shadow: 5px 5px 5px darkgray;
 }
+body{
+    display: flex;
+  flex-direction: column;
+  margin-bottom: 40px;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+
+.circle{
+    display: flex;
+    flex-direction: row;
+}
+.redCircle{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    background-color: red;
+    margin: 10px;
+}
+.blueCircle{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    background-color: blue;
+    margin: 10px;
+
+}
+.greenCircle{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    background-color: green;
+    margin: 10px;
+
+}
