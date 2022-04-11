@@ -42,3 +42,18 @@ document.getElementById("blue_").onclick = function() {
 document.getElementById("green_").onclick = function() {
     document.getElementById("green_").style.backgroundColor = "blue";
 }
+
+
+// var x = document.getElementById("password").value;
+// var y = document.getElementById("passwordd").value;
+// document.getElementById("subbmit").onclick = function(){
+//     if (x === y) {
+//         alert("Password is a Match")
+//     } else{
+//         alert("Password does not match!!")
+//     }
+// }
+
+
+let x = document.getElementById("password");
+alert("x")
