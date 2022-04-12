@@ -64,3 +64,7 @@ if (x!=1) {
 else {alert('x is 1')}
 
 */
+
+document.getElementById('btn').onclick = function() {
+    document.body.classList.toggle('green')
+}

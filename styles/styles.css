@@ -25,6 +25,10 @@ body {
   min-height: 100vh;
 }
 
+body.green {
+  background-color: green;
+}
+
 .circle {
   display: -webkit-box;
   display: -ms-flexbox;
@@ -57,5 +61,13 @@ body {
   border-radius: 50%;
   background-color: green;
   margin: 10px;
+}
+
+.butttn {
+  background-color: blueviolet;
+}
+
+.green {
+  background-color: green;
 }
 /*# sourceMappingURL=styles.css.map */

@@ -12,6 +12,9 @@ body{
   justify-content: center;
   align-items: center;
   min-height: 100vh;
+  &.green{
+      background-color: green;
+  }
 }
 
 .circle{
@@ -40,4 +43,12 @@ body{
     background-color: green;
     margin: 10px;
 
+}
+
+
+.butttn{
+    background-color: blueviolet;
+}
+.green{
+    background-color: green;
 }
