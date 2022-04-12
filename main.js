@@ -64,7 +64,8 @@ if (x!=1) {
 else {alert('x is 1')}
 
 */
+//Toggle Switch Background Color
 
 document.getElementById('btn').onclick = function() {
-    document.body.classList.toggle('green')
+    document.body.classList.toggle('butttn')
 }
